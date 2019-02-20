@@ -1,5 +1,5 @@
 [package]
-name = "drydock-rs"
+name = "drydock"
 version = "0.1.0"
 license = "MIT OR Apache-2.0"
 authors = ["Fisher Darling <fdarlinco@gmail.com>"]
